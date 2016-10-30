@@ -5,12 +5,11 @@ This is python get top 5 words by frequency.<br>
 step 1 : you have a sample.txt<br>
 <br>
 ![](http://imgur.com/zY9Ho4X.png)<br>
-step 2 : you have to input python token.py [filename.txt] [n-gram]<br>
-and you will get output data
+step 2 : you have to input python token.py [filename.txt] [n-gram],and you will get output data
 <br>
 ![](http://imgur.com/lncMRpS.png)
 <br>
-The structure of output data is ("word"),["frequancy",row in First occurence,row in second occurence,row....]
+The structure of output data is (("word"),["frequancy",row in First occurence,row in second occurence,row....] , ....)
 <br>
 
 #Environment
